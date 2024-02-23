@@ -1,4 +1,4 @@
-package com.example.room.another
+package com.example.room.model
 
 enum class SortType {
     FIRST_NAME,

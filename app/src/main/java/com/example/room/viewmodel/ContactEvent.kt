@@ -1,4 +1,7 @@
-package com.example.room.another
+package com.example.room.viewmodel
+
+import com.example.room.model.Contact
+import com.example.room.model.SortType
 
 sealed interface ContactEvent {
 

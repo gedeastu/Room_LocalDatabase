@@ -1,9 +1,10 @@
-package com.example.room.another
+package com.example.room.data
 
 import androidx.room.Dao
 import androidx.room.Delete
 import androidx.room.Query
 import androidx.room.Upsert
+import com.example.room.model.Contact
 
 @Dao
 interface ContactDao{

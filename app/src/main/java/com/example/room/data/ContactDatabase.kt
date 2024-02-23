@@ -1,7 +1,8 @@
-package com.example.room.another
+package com.example.room.data
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
+import com.example.room.model.Contact
 
 @Database(
     entities = [Contact::class],
